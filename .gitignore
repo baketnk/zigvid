@@ -1,0 +1,8 @@
+.DS_Store
+zig-out
+vendor
+build*.txt
+*.bmp
+*.mp4
+.zig*
+*.sh
